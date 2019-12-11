@@ -1,0 +1,5 @@
+I chose the all-time FIFA World Cup table data source on Wikipedia because soccer is one of my favorite sports and it always produces me too much curiosity and I have a personal interest in these general statistics about teams which represent countries.
+
+I think we can do some analysis about appearances, for example, which teams or countries have participated at least once and how long time have not they attended to competition.
+
+https://www.coursera.org/learn/python-data-visualization/discussionPrompt/HLvz5/identifying-a-data-source?answerId=XG6NAO5kEemUeRJk0sMHtg

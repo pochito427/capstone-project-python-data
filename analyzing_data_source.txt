@@ -1,0 +1,5 @@
+I used an online tool to generate a JSON structured data to collect and manipulate easier this dataset and after it, I copy the JSON generated text to an editor as Notepad++ for cleaning data up and removing some irrelevant details and refactoring another, for example, fields's names. When I finished this step, I prepared a Python script to load JSON data and parse it to a list of dictionaries and after to transfer all data to a SQLite relational database previously created with a table assuming fields as columns. There is another choice to load and process that same data on a Data Frame set with Pandas library to analyze and visualize data more effectively in the future. 
+
+One challenge I encountered, it was when I tried to install and use Beautiful Soup or bs4 library for Python 3.6 but it was not possible to implement it so on my local environment even converting code with 2to3 tool script and I think it was more difficult and required more steps to collect data from original source.
+
+https://www.coursera.org/learn/python-data-visualization/discussionPrompt/AusTR/analyzing-a-data-source?answerId=3MuTdO6JEemRFwp4vg4wng

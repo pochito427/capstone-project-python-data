@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/All-time_table_of_the_FIFA_World_Cup
+https://www.wikitable2json.com/
+https://scriptcrunch.com/parse-json-file-using-python/
+https://pbpython.com/pandas-list-dict.html
+https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
