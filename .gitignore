@@ -1,2 +1,3 @@
 /logs
+/data/*.sqlite
 /data/*.sqlite3
